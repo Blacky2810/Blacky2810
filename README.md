@@ -16,7 +16,6 @@
 * **[Pyco Bot](https://github.com/Blacky2810/Pyco-Bot)**,*A Multi-Purpose Discord Bot in Discord.js*
 * **[Manage-Giveaways](https://github.com/Black2810/Manage-Giveaways)**,*A Discord package to manage your bot's giveaways*
 * **[Personal Website](https://github.com/Black2810/Personal-Website)**,*My Personal Website*
-* **[Blacky's Development Website](https://github.com/Black2810/BlackyDev-Website)**,*Official Website Of Blacky's Development**
 
 ## Skills 🎯
 
